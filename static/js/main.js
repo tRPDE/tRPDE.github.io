@@ -20686,7 +20686,7 @@ window.location.reload(true);
                                 h.jsxs)(hd, {
                                     button: !0,
                                     onClick: function() {
-                                        return window.location.href = "https://github.com/TheOriginalAyaka/sekai-stickers"
+                                        return window.location.href = "https://github.com/tRPDE/tRPDE.github.io"
                                     },
                                     children: [(0,
                                     h.jsx)(Td, {
@@ -20702,39 +20702,13 @@ window.location.reload(true);
                                     })]
                                 })
                             }), (0,
-                            h.jsx)(Gc, {
-                                variant: "h6",
-                                component: "h3",
-                                children: "The discord bot:"
-                            }), (0,
-                            h.jsx)(Ni, {
-                                children: (0,
-                                h.jsxs)(hd, {
-                                    button: !0,
-                                    onClick: function() {
-                                        return window.location.href = "http://link.ayaka.one/stbot"
-                                    },
-                                    children: [(0,
-                                    h.jsx)(Td, {
-                                        children: (0,
-                                        h.jsx)(Od, {
-                                            alt: "Discord",
-                                            src: "https://cdn.discordapp.com/embed/avatars/0.png"
-                                        })
-                                    }), (0,
-                                    h.jsx)(bd, {
-                                        primary: "Sekai Stickers",
-                                        secondary: "Add more fun to your server."
-                                    })]
-                                })
-                            }), (0,
                             h.jsxs)(Gc, {
                                 variant: "h6",
                                 component: "h3",
                                 children: ["Total stickers made using the app:", (0,
                                 h.jsx)("br", {}), null !== r && void 0 !== r && r.global ? (null === r || void 0 === r ? void 0 : r.global.toLocaleString()) + " Sticker" : "***CENSORED*** 😜"]
                             }), (0,
-                            h.jsxs)(Gc, {
+                            h.jsxs)(Ni, {
                                 variant: "h6",
                                 component: "h3",
                                 children: ["Catalogs:", (0,
