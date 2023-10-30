@@ -20639,6 +20639,24 @@ window.location.reload(true);
                                         secondary: "for the original stamps"
                                     })]
                                 }), (0,
+								h.jsxs)(hd, {
+                                    button: !0,
+                                    onClick: function() {
+                                        return window.location.href = "https://github.com/Cosmic-Excalibur/"
+                                    },
+                                    children: [(0,
+                                    h.jsx)(Td, {
+                                        children: (0,
+                                        h.jsx)(Od, {
+                                            alt: "Astrageldon",
+                                            src: "/astra.jpg"
+                                        })
+                                    }), (0,
+                                    h.jsx)(bd, {
+                                        primary: "Astrageldon",
+                                        secondary: "for the re-implementation and demand-based maintenance"
+                                    })]
+                                }), (0,
                                 h.jsxs)(hd, {
                                     button: !0,
                                     onClick: function() {
@@ -22369,7 +22387,7 @@ window.location.reload(true);
                 }), (0,
                 h.jsxs)("div", {
                     className: "counter",
-                    children: ["This website is specially designed for a friend of mine 😉. Original: https://st.ayaka.one/"]
+                    children: ["This website is specially designed for a friend of mine 😉 by Astrageldon. Original: https://st.ayaka.one/"]
                 }), (0,
                 h.jsxs)("div", {
                     className: "container",
