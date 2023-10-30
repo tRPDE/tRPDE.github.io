@@ -20733,6 +20733,12 @@ window.location.reload(true);
                                 component: "h3",
                                 children: ["Total stickers made using the app:", (0,
                                 h.jsx)("br", {}), null !== r && void 0 !== r && r.global ? (null === r || void 0 === r ? void 0 : r.global.toLocaleString()) + " Sticker" : "***CENSORED*** 😜"]
+                            }), (0,
+                            h.jsxs)(Gc, {
+                                variant: "h6",
+                                component: "h3",
+                                children: ["Catalogs:", (0,
+                                h.jsx)("br", {}), "1.0 Basic functions of the original one, with white background"]
                             })]
                         })
                     }), (0,
@@ -22387,7 +22393,8 @@ window.location.reload(true);
                 }), (0,
                 h.jsxs)("div", {
                     className: "counter",
-                    children: ["This website is specially designed for a friend of mine 😉 by Astrageldon. Original: https://st.ayaka.one/"]
+                    children: ["This website is specially designed for a friend of mine 😉 by Astrageldon.", (0,
+                                h.jsx)("br", {}), "Original: https://st.ayaka.one/"]
                 }), (0,
                 h.jsxs)("div", {
                     className: "container",
